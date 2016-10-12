@@ -1,5 +1,5 @@
 $proxy = 'http://fixie:q4j272TRdffJrcQ@velodrome.usefixie.com:80';
-$proxyauth = 'pathompong@yellow-idea.com:Poringjung1';
+$proxyauth = 'http://fixie:q4j272TRdffJrcQ@velodrome.usefixie.com:80';
 
 <?php
 $access_token = 'vVWfd98+M9yVZT9du4UcFMCY4fSRSiSBsO+a1q9GCnrMwYRnSS/dkHMwPGkOgkhGqUOaewTC+KlJRjyLWzB/ARcwMu3xKA6kXzILFHliQE0bhORT/K4vKTUukRcKkVvfUEzChhB1Qn+EpeYl5uJqqQdB04t89/1O/w1cDnyilFU=';
